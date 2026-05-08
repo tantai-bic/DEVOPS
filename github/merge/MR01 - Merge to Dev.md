@@ -1,0 +1,1 @@
+Các nhánh [[BR05 - TASK]] được merge vào Dev sẽ được trích xuất từ các [[IS01 - Task làm việc]]

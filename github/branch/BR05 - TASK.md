@@ -1,0 +1,1 @@
+Nhánh làm việc, dùng để phát triển automation test cho 1 epic/user story, nhánh sẽ được link vào [[IS01 - Task làm việc]] để tracking và sẽ được tự merge vào [[BR01 - DEV]] bởi [[PP01 - Tự động hóa merge vào dev]]

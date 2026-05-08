@@ -1,0 +1,1 @@
+Để merge vào release, các [[BR05 - TASK]] phải được nằm trong [[IS02 - Task release]].
